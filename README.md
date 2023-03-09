@@ -17,7 +17,7 @@ Both buttons should utilize the Storefront API for completion.
 
 # Submission
 <ul>
-    <li><a href="https://space-chair.mybigcommerce.com/">Store Preview</a>
+    <li><a target="_blank" href="https://space-chair.mybigcommerce.com/">Store Preview</a>
     <li>Password: 7m7goox43s</li>
  </li>
 </ul>
